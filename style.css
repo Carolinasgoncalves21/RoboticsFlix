@@ -7,7 +7,8 @@ section {
     background: #9494cc;
     padding-top: 80px;
     padding-bottom: 80px;
-    display: flex;
+    display: flex; /* torna flexivel = poe um do lado do outro */
+    justify-content: center;
 }
 
 
