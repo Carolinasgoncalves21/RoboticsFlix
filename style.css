@@ -8,7 +8,7 @@ header {
 }
 
 h2 {
-    color: #166f40;;
+    color: #ffffff;
 }
 
 .chamada {
@@ -31,6 +31,7 @@ img{
 .categoria {
     padding-left: 20px; 
     padding-right: 20px;
+    color: #166f40;
 }
 
 .categoria-videos{
