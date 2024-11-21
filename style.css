@@ -31,7 +31,7 @@ img{
 .categoria {
     padding-left: 20px; 
     padding-right: 20px;
-    background-color: #166f40;
+    background-image: #166f40,  #9494cc;
 }
 
 .categoria-videos{
