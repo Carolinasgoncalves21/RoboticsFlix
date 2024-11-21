@@ -1,6 +1,7 @@
 body {
     background-color:#344c9c;
     color:#b4b6d4;
+    font-family: sans-serif;
 }
 
 header {
@@ -31,7 +32,7 @@ img{
 .categoria {
     padding-left: 20px; 
     padding-right: 20px;
-    background-image: #166f40,  #9494cc;
+    background-image: linear-gradient( #166f40,  #9494cc) ;
 }
 
 .categoria-videos{
