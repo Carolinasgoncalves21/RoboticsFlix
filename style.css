@@ -21,7 +21,7 @@ h2 {
 }
 
 .chamada-texto { 
-    margin-right: 20%;
+    margin-right: 5%;
 }
 
 img{
@@ -32,8 +32,8 @@ img{
     display: flex;
     overflow-x: auto; /* permite rolagem horizontal automática quando o  conteúdo exceder a largura da tela */
     gap: 10px; /* adiciona espaçamento entre os elementos*/
-    padding-left: 50px; 
-    padding-right: 50px;
+    padding-left: 20px; 
+    padding-right: 20px;
 
 }
 
