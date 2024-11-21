@@ -18,8 +18,6 @@ h2 {
     padding-bottom: 80px;
     display: flex; /* torna flexivel = põe um do lado do outro */
     justify-content: center; /* centralizar */   
-    padding-left: 50px; 
-    padding-right: 50px;
 }
 
 .chamada-texto { 
@@ -34,6 +32,8 @@ img{
     display: flex;
     overflow-x: auto; /* permite rolagem horizontal automática quando o  conteúdo exceder a largura da tela */
     gap: 10px; /* adiciona espaçamento entre os elementos*/
+    padding-left: 50px; 
+    padding-right: 50px;
 
 }
 
