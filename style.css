@@ -10,11 +10,16 @@ header {
     font-family: "Great Vibes", serif;
 }
 
+p{
+    font-size: 25px;
+}
+
 h1 {
     font-size: 40px;
 }
 
 h2 {
+    text-align: center;
     font-size: 35px;
     color: #ffffff;
 }
