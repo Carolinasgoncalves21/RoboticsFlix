@@ -5,12 +5,15 @@ body {
 }
 
 header {
-    color: #ff5757;;
+    color: #ff5757;
+    font-family: "Great Vibes", serif;
 }
 
 h2 {
     color: #ffffff;
 }
+  
+
 
 .chamada {
     color:#344c9c;
