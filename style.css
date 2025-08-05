@@ -45,6 +45,7 @@ img{
 .categoria {
     padding-left: 20px; 
     padding-right: 20px;
+    margin-bottom: 50px;
     background-image: linear-gradient( #9494cc, #166f40) ;
 }
 
