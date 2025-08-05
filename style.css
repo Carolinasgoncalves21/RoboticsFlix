@@ -53,7 +53,8 @@ img{
     display: flex;
     overflow-x: auto; /* permite rolagem horizontal automática quando o  conteúdo exceder a largura da tela */
     gap: 10px; /* adiciona espaçamento entre os elementos*/
-    padding-bottom: 50px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
 }
 
 
